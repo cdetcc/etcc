@@ -63,3 +63,6 @@ Remove-Item -Path $downloadPath -Force
 Write-Host "Cleanup complete."
 
 Write-Host "Script finished successfully! 🎉"
+
+# Add this line to keep the window open.
+Read-Host -Prompt "Press Enter to exit"
