@@ -19,7 +19,7 @@
         {
             "DisplayName": "Visual C++ Redistributable for Visual Studio 2015-2022",
             "URL": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
-            "FileName": "vc_redist.x64.exe",
+            "FileName": "VC_redist.x64.exe",
             "Version": "2015-2022",
             "Architecture": "x64",
             "Parameters": "/install /quiet /norestart"
@@ -27,7 +27,7 @@
         {
             "DisplayName": "Visual C++ Redistributable for Visual Studio 2015-2022",
             "URL": "https://aka.ms/vs/17/release/vc_redist.x86.exe",
-            "FileName": "vc_redist.x86.exe",
+            "FileName": "VC_redist.x86.exe",
             "Version": "2015-2022",
             "Architecture": "x86",
             "Parameters": "/install /quiet /norestart"
